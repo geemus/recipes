@@ -1,6 +1,9 @@
 #!/usr/bin/env ruby
 # encoding: UTF-8
 
+# built based on information from:
+# https://puppet.com/blog/how-we-automated-our-ebook-builds-pandoc-and-kindlegen
+
 require 'fileutils'
 
 # create build directories
