@@ -16,10 +16,10 @@
 * 1/4 cup minced fresh parsley or basil leaves (or a mix)
 
 1. Crush tomatoes until all pieces are less than 1/2 inch.
-2. Transfer 1 cup crushed tomatoes to a sealed container and reserve in refrigerator.
-3. Heat olive oil and butter over medium high heat in pressure cooker until butter is melted.
-4. Add garlic and cook, stirring, until softened and fragrant but not brown, ~ 2 minutes.
-5. Add pepper flakes and oregano and cook, stirring, until fragrant, about 1 minute.
+2. Transfer 1 cup and reserve in refrigerator.
+3. Melt butter with olive oil over medium high heat in pressure cooker.
+4. Cook garlic until softened and fragrant but not brown, ~ 2 minutes.
+5. Cook pepper flakes and oregano, stirring, until fragrant, ~ 1 minute.
 6. Add tomatoes, carrot, onion, and basil and stir to combine.
 7. Season lightly with salt and pepper.
 8. Seal pressure cooker, and cook at high pressure for 45 minutes.
