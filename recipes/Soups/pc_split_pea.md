@@ -1,4 +1,4 @@
-## Split Pea Soup
+## PC Split Pea Soup
 
 6-8 Servings = 10 minutes / 30 minutes
 
@@ -22,4 +22,3 @@
 8. Serve immediately or store for up to 1 week.
 
 Adapted from [Serious Eats](https://www.seriouseats.com/recipes/2016/10/30-minute-pressure-cooker-split-pea-soup-recipe.html)
-
