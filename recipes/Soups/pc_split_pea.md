@@ -10,7 +10,7 @@
 * 1 pound dried green split peas
 * 6 cups low-sodium chicken stock (1.5L)
 * 2 bay leaves
-* kosher salt and freshly ground black pepper
+* kosher salt and freshly ground pepper
 
 1. Melt butter over medium heat.
 2. Cook onion, celery, and ham, stirring, until soft but not brown, ~3 minutes.

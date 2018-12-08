@@ -4,21 +4,21 @@
 
 * 6 tbsp unsalted butter
 * 1 1/2 cups + 3 tbsp all-purpose flour, divided
-* 1 1/2 quarts low sodium chicken broth (48 ounces)
+* 1 1/2 quarts low sodium chicken broth
 * 1 cup leftover gravy (optional)
 * 1 large onion, finely sliced
 * 2 medium carrots, chopped medium
 * 3 medium ribs celery, chopped medium
-* 1 lb leftover roast turkey or chicken, torn into rough bite-sized pieces
+* 1 lb leftover roast poultry, in bite-sized pieces
 * 1 1/2 cups thawed frozen peas
 * 1/2 cup fresh parsley leaves, minced
-* Kosher salt and freshly ground black pepper to taste
+* kosher salt and fresh ground pepper
 * 1/2 tsp baking powder
 * 2 tbsp fresh chives, minced
 * 1/2 cup buttermilk
 * 1 whole egg
 
-1. Melt 3 tbsp butter in large pan over medium-high heat.
+1. Melt 3 tbsp butter over medium-high heat.
 2. Cook 3 tbsp flour, stirring constantly, until pale golden, ~3 minutes.
 3. Slowly whisk in broth.
 4. Add gravy, onions, carrots, and celery.

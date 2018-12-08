@@ -13,7 +13,7 @@
 *  20 g citric acid, for coating, optional
 
 1. Heat sous vide bath to 167F / 75C.
-2. Sprinkle gelatin over water, mix, and let rest one minute to bloom.
+2. Sprinkle gelatin over water, mix, and bloom ~1 minute.
 3. Combine dextrose and corn syrup, then measure 247 g into jar
 4. Add gelatin mixture.
 5. Close jar fingertip tight.
