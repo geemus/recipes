@@ -1,4 +1,4 @@
-## Poultry and Dumplings
+## Poultry and Dumplings Soup
 
 4-6 Servings = 45 minutes / 1 hour 15 minutes
 
