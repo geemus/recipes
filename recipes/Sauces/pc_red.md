@@ -21,7 +21,7 @@
 4. Add garlic and cook, stirring, until softened and fragrant but not brown, ~ 2 minutes.
 5. Add pepper flakes and oregano and cook, stirring, until fragrant, about 1 minute.
 6. Add tomatoes, carrot, onion, and basil and stir to combine.
-7. Season lightly with salt and pressure.
+7. Season lightly with salt and pepper.
 8. Seal pressure cooker, and cook at high pressure for 45 minutes.
 9. Release pressure and open lid.
 10. Use tongs to discard onion halves, carrot, and basil stem.
