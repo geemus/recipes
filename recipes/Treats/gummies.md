@@ -20,8 +20,9 @@
 6. Cook for one hour.
 7. Remove jar and stir to fully combine.
 8. Let rest for 15 minutes, then carefully remove film from surface.
-9. Transfer to squeeze bottle and mold.
-10. Chill in fridge for at least four hours, ideally overnight.
-11. Unmold and toss in coating.
+9. Add citric acid and essential oil and stir. Optionally, add food coloring.
+10. Transfer to squeeze bottle and mold.
+11. Chill in fridge for at least four hours, ideally overnight.
+12. Unmold and toss in coating.
 
 Adapted from [Chef Steps](https://www.chefsteps.com/activities/sous-vide-gummies-for-the-whole-family)
