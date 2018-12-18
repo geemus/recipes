@@ -25,7 +25,6 @@
 11. Let cool on pan.
 12. Bake remaining dough on cool sheets.
 
-
 *Note*: Can be refrigerated 3 days or frozen 2 months. Can bake from frozen, just add 1 minute.
 
 Adapted from Dorie's Cookies.
