@@ -4,7 +4,7 @@
 
 * 1 qt low sodium chicken stock
 * 1 oz dried porcini mushrooms (optional)
-* 1 1/2 lbs mixed mushrooms
+* 1 1/2 lbs mixed mushrooms, trimmed and thinly sliced, stems reserved
 * 4 tbsp extra virgin olive oil
 * 4 tbsp unsalted butter
 * salt and pepper to taste
