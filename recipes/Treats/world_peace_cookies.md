@@ -17,7 +17,7 @@
 3. Beat in salt and vanilla.
 4. Stop mixer, add all dry ingredients, and pulse until settled. Beat until dough forms big, moist curds.
 5. Turn dough out and knead to bring together.
-6. Divide in hald, and shape into 1 1/2 inch logs.
+6. Divide in half, and shape into 1 1/2 inch logs.
 7. Wrap logs in plastic wrap and freeze for 2+ hours or refrigerate for 3+ hours.
 8. Center oven rack and preheat to 325F.
 9. Slice dough into 1/2 inch rounds and arrange on lined baking sheets with ~2 inches in between.

@@ -21,6 +21,6 @@
 11. Carefully spoon jam into trench and finish with line of raspberries.
 12. Let cool to room temp, transfer to refrigerator and chill 1 hour+ before serving.
 
-*Note*: Best to keep log intact and cut off cookies as neede. Store log in refrigerator up to two days.
+*Note*: Best to keep log intact and cut off cookies as needed. Store log in refrigerator up to two days.
 
 Adapted from Dorie's Cookies

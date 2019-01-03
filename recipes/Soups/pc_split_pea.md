@@ -18,7 +18,7 @@
 4. Add peas, chicken stock, and bay leaves.
 5. Stir to combine, cook at high pressure for 20 minutes, then rapidly release.
 6. Open, stir until smooth, season to taste with salt and pepper, and serve.
-7. Carefully clean gaskets and vaves as soon as cool enough to handle.
+7. Carefully clean gaskets and valves as soon as cool enough to handle.
 8. Serve immediately or store for up to 1 week.
 
 Adapted from [Serious Eats](https://www.seriouseats.com/recipes/2016/10/30-minute-pressure-cooker-split-pea-soup-recipe.html)

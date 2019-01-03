@@ -2,21 +2,21 @@
 
 ~ 20 cookies = 30 minutes / 3-6 hours
 
-* 12 plump, moist dried turkish apricots, cut into small pieces
-* 170 g Biscoff cookies, Petit Beurre or vanila wafers (6 oz)
+* 12 plump, moist dried Turkish apricots, cut into small pieces
+* 170 g Biscoff cookies, Petit Beurre or vanilla wafers (6 oz)
 * 2 large organic eggs, at room temp
 * 113 g unsalted butter, melted and cooled (8 tbsp, 1 stick)
 * 100 g sugar (1/2 cup)
 * 1/2 tsp sea salt
 * 85 g unsweetened cocoa powder (1 cup)
-* 70 g shelled pistachios (rub off loose skins), lightly toasted and coursely chopped (1/2 cup)
+* 70 g shelled pistachios (rub off loose skins), lightly toasted and coarsely chopped (1/2 cup)
 * 120 g confectioners' sugar, for rolling (~ 1 cup)
 
-1. Put apricots in heatprof bowl and add enough very hot tap water to cover and set aside to soak (or use tea, juice, or booze).
+1. Put apricots in heatproof bowl and add enough very hot tap water to cover and set aside to soak (or use tea, juice, or booze).
 2. When needed, drain and pat dry apricots between paper towels.
 3. Cut cookies into rough, uneven cubes using a serrated knife.
 4. Whisk eggs, butter, sugar and salt together until reaching a beautiful sheen.
-5. Switch to sturby flexible spatula and stir in cocoa over 3-4 additions.
+5. Switch to sturdy flexible spatula and stir in cocoa over 3-4 additions.
 6. Dough will be thick, almost paste-like.
 7. One by one, stir in apricots, cookie pieces and pistachios.
 8. Lay out a large piece of parchment paper and butter it.

@@ -26,7 +26,7 @@
 6. Add onion, garlic, and chopped porcini (if using) and cook, stirring frequently, until onions are soft and aromatic, ~ 4 minutes.
 7. Add rice and cook, stirring, until rice evenly coated in oil and toasted but not browned, ~ 3-4 minutes.
 8. Stir in soy sauce and miso paste until evenly incorporated.
-9. Add wine and cook, stirring, until raw alchohol smell cooks off and wine mostly evaporates, ~ 2 minutes.
+9. Add wine and cook, stirring, until raw alcohol smell cooks off and wine mostly evaporates, ~ 2 minutes.
 10. Pour stock into pot through fine-mesh strainer, discarding scraps.
 11. Scrape sides so that everything is submerged.
 12. Seal and cook at low pressure for 5 minutes, then release.

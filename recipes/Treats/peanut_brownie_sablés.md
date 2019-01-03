@@ -11,7 +11,7 @@
 * 100 g sugar (1/2 cup)
 * 1/4 tsp salt
 * 2 large egg yolks, at room temp
-* 110 grams salted peanuts, toasted and coursely chopped (3/4 cup)
+* 110 grams salted peanuts, toasted and coarsely chopped (3/4 cup)
 
 **Brownie Batter**
 
@@ -19,9 +19,9 @@
 * 21 g unsweetened cocoa powder (1/4 cup)
 * 1/4 tsp salt
 * 100 g packed light brown sugar (1/2 cup)
-* 56 g cold unsolted butter, cut into 16 pieces (4 tbsp)
+* 56 g cold unsalted butter, cut into 16 pieces (4 tbsp)
 * 1 large egg, beaten
-* 170 g sewisweet or bittersweet chocolate, finely chopped (6 oz)
+* 170 g semisweet or bittersweet chocolate, finely chopped (6 oz)
 
 1. Center a rack in the oven and preheat to 350F.
 2. *Sablé Dough*
@@ -36,10 +36,10 @@
 11. Put flour, cocoa and salt into mixer and pulse to combine.
 12. Add brown sugar and pulse again.
 13. Toss in cold bits of butter and mix on low until ingredients are fully blended, ~ 2 minutes.
-14. Pour in beaten egg and continue mixing on low speed until batter resembel fudge frosting.
+14. Pour in beaten egg and continue mixing on low speed until batter resembles fudge frosting.
 15. Add chopped chocolate and pulse to mix.
 16. *Combining*
-17. Scrape sablé dough into bowl with brownie and batter and mix on low until homogenous.
+17. Scrape sablé dough into bowl with brownie and batter and mix on low until homogeneous.
 18. Portion with medium cookie scoop, leaving 2 inches between. Press each cookies down very gently with the jar or glass.
 19. Slide one sheet into the oven and bake ~ 10 minutes (you shouldn't need to rotate).
 20. Cookies should be set at edges, soft in the center and uniformly dull.

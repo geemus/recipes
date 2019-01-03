@@ -11,7 +11,7 @@
 * 200 g sugar (1 cup)
 * 134 g packed light brown sugar (2/3 cup)
 * 2 large eggs, at room temp
-* 146 g lighlty salted peanuts, finely chopped (1 cup)
+* 146 g lightly salted peanuts, finely chopped (1 cup)
 * Sugar, for sprinkling
 
 1. Center a rack in the oven and preheat to 350F.
@@ -26,7 +26,7 @@
 10. Portion with medium cookie scoop, leaving 1 1/2 inches between.
 11. Sprinkle portioned dough with sugar.
 12. Bake 17-19 minutes, rotating pans top to bottom and front to back after 10 minutes, or until golden brown.
-13. Transfer baking sheets to racks and wait for 2 minutes, then lift cookies onto racsk to cool completely.
+13. Transfer baking sheets to racks and wait for 2 minutes, then lift cookies onto racks to cool completely.
 14. Repeat for remaining cookies, ensuring baking sheets have cooled before reusing.
 
 *Note*: Can freeze portioned dough for up to 2 months before cooking, or finished cookies can be kept covered at room temperature for up to 5 days.
