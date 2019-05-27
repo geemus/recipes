@@ -1,4 +1,4 @@
-## PC Red Sauce
+## Meatless Meat Sauce
 
 6 cups, enough for 2lbs pasta = ? minutes
 
