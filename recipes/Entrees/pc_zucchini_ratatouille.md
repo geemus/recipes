@@ -8,7 +8,7 @@
 * 2 garlic cloves, minced
 * 4 medium zucchini, chopped into bite-size pieces
 * 1/4 cup dry white wine
-* 2 large tomatoes, seeded and diced, or 2 handfuls large cherry tomatoes, halved
+* 1 (28-oz) can of diced tomatoes
 * 1 bay leaf
 * 3 fresh thyme sprigs
 * salt and pepper to taste

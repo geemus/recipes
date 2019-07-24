@@ -2,6 +2,7 @@
 
 6 cups, enough for 2lbs pasta = ? minutes
 
+* 1 package frozen mushrooms
 * 10 oz cremini mushrooms, trimmed
 * 6 tbsp extra-virgin olive oil
 * 1 tsp table salt
