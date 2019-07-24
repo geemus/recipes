@@ -1,4 +1,4 @@
-## Roasted Sweet Potatoes
+## Sous Vide Roasted Sweet Potatoes
 
 6-8 servings = 20 minutes / 2 hours+
 
