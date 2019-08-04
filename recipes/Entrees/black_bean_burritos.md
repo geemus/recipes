@@ -25,7 +25,7 @@
 4. Heat the oil in a skillet over medium heat until hot but not smoking.
 5. Add the garlic, scallions, cumin, jalapeño pepper, salt and pepper; cook, stirring, ~ 1 minute.
 6. Stir in beans, mashing them with a fork.
-7. Add another 1/3 cup water and cook, stirring until most of the liquid is absorbed, ~ 5 minutes.
+7. Add 1/3 cup water and cook, stirring until most of the liquid is absorbed, ~ 5 minutes.
 8. Toss in corn and remove from heat.
 9. Spread the bean filling across middle of each tortilla, leaving some space at both ends.
 10. Sprinkle each tortilla with cheese, quick-pickled onion, and a little cilantro.
