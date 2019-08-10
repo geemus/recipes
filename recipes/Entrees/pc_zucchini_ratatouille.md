@@ -25,4 +25,4 @@
 9. Remove bay leaf and let ratatouille cool a few minutes.
 10. Plate and top with fresh basil and a drizzle of olive oil.
 
-Adapted from Laurel Randolph's The Instant Pot Electric Pressure Cooker Cookbook
+Adapted from The Instant Pot Electric Pressure Cooker Cookbook by Laurel Randolph
