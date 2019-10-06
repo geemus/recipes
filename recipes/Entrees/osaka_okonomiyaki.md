@@ -19,6 +19,12 @@ toppings
 * aonori (powdered nori seaweed)
 * katsuobushi (dried, shaved bonito)
 
+sauce
+
+* 3 tbsp ketchup
+* 1 tbsp Worchestershire sauce
+* 1 tbsp soy sauce
+
 1. Mix together flour, dashi, salt, baking powder, and sugar in large bowl.
 2. Add cabbage and mix well for at least 30 seconds, until cabbage is coated.
 3. Add eggs and mix, lightly this time, for about 15 seconds, or until the eggs are just combined with cabbage.
@@ -40,3 +46,4 @@ toppings
 Variation: Substitute 8 oz ground pork for pork belly, mixing into batter after adding cabbage.
 
 Adapted from Japanese Soul Food by Tadashi Ono & Harris Salat
+Sauce adapted from [Okonomiyaki World](http://okonomiyakiworld.com/Okonomiyaki-Ingredients.html)
