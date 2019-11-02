@@ -6,11 +6,11 @@
 * 2 tbsp olive oil
 * chopped medium onion
 * chopped red or yellow pepper
-* 3 cloves garlic
+* 4 cloves garlic
 * 2 tbsp tomato paste
 * 1 tsp cumin
+* 1 tsp paprika
 * 1 tsp msg
-* 1/2 tsp ground cumin
 * 1/2 tsp red pepper flakes
 * 1 (28 ounce) can whole crushed tomatoes
 * 1 cup dried red lentils
@@ -33,3 +33,4 @@
 
 Adapted from [Serious Eats](https://www.seriouseats.com/recipes/2014/03/spicy-tomato-sauce-lentils-baked-eggs-recipe.html)
 Adapted from [COOKIE+Kate](https://cookieandkate.com/foolproof-shakshuka-recipe/)
+Adapted from Dinner in an Instant by Melissa Clark
