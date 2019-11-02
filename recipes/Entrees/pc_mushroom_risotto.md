@@ -17,6 +17,7 @@
 * 1/4 cup heavy cream (optional)
 * 1 oz finely grated Parmigiano-Reggiano cheese, plus more for serving
 * Handful finely minced mixed herbs, such as parsley, chervil, tarragon, and/or chives
+* 1 cup frozen peas or peas+carrots
 
 1. Place stock and dried mushrooms (if using) together and microwave until simmering, ~ 5 minutes.
 2. Transfer porcini to cutting board and chop roughly.
@@ -30,7 +31,7 @@
 10. Pour stock into pot through fine-mesh strainer, discarding scraps.
 11. Scrape sides so that everything is submerged.
 12. Seal and cook at low pressure for 5 minutes, then release.
-13. Open pressure cooker and stir to combine. Add cream (if using), cheese, and herbs.
+13. Open pressure cooker and stir to combine. Add cream (if using), peas or peas+carrots (if using), cheese, and herbs.
 14. If too soupy, cook more, stirring, until thickened. If too thick, stir in some hot water.
 15. Season to taste with salt and pepper and serve immediately on hot plates, passing extra cheese at the table.
 
