@@ -17,9 +17,7 @@
 * 1/4 tsp ground tumeric
 * ? msg
 
-* consider larger can of diced tomato (and increased spices)
-* take advantage of aquafaba?
-* add some lime juice to brighten things?
+* used 28 oz can tomato, doubled spice (too much chili), added a little lime juice
 
 1. Heat oil, add sliced onion and cook, stirring, until golden brown, 10-15 minutes.
 2. Stir in garlic, ginger, jalapeño and tomato paste, cook until fragrant, ~ 1 minute.
