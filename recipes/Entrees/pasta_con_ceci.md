@@ -1,4 +1,4 @@
-## Sauce Gribiche
+## Pasta con Ceci
 
 2-3 servings = ~30 minutes
 
