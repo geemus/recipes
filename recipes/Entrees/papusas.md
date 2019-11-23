@@ -2,14 +2,20 @@
 
 ? servings = ? minutes
 
+### Filling
+
 * 3 tbsp vegetable oil
 * 1/2 medium white onion, minced
 * 15-oz can refried red beans
 * 4 oz queso fresco, grated (~ 1 cup)
 
+### Dough
+
 * 3 cups corn masa flour
 * 3 tsp Kosher Salt
 * 2 2/3 cups hot water
+
+### Serving
 
 * Salvadoran Cabbage Relish (Curtido) and Salvadoran Salsa Roja; for serving (see Bon Appétit)
 
