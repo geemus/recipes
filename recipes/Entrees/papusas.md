@@ -1,4 +1,4 @@
-## Pressure Cooker Basic Dal
+## Papusas
 
 ? servings = ? minutes
 
