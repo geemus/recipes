@@ -1,4 +1,4 @@
-## Wine Gums
+## Nut Gelato
 
 8 servings = 40 minutes / 1 hour
 
