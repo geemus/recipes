@@ -22,7 +22,7 @@
  2. Preheat oven to 450F.
  3. Heat ~2 tbsp oil in dutch oven over high heat until shimmering.
  4. Add meat and cook until well browned, ~6-8 minutes.
- 5. Add onion and garlic and cook, stirring and scraping bottom und sligthly softened, ~4 minutes.
+ 5. Add mushrooms, onion and garlic and cook, stirring and scraping bottom und sligthly softened, ~4 minutes.
  6. Reduce to medium heat and stir in tomato paste, ~1 minute.
  7. Add red wine and bring to simmer over high heat, cook/scrape until almost fully evaporated.
  8. Sprinkle flour over mixture, stir until fully incorporated, and cook ~ 1 minute.
