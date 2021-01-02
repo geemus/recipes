@@ -1,5 +1,16 @@
 ## Cheese Sauce
 
+* 12 oz Grated Cheese
+* 10g Sodium Citrate
+* 8 oz (1 cup) Whole Milk
+
+1. Combine milk and sodium citrate in medium sauce pan.
+2. Bring milk to just simmering.
+3. Add cheese in small handfuls, blending with immersion blender until smooth.
+4. Remove from heat and serve.
+
+Adapted from [Eat Up! Kitchen](http://eatup.kitchen/mac-and-cheese/)
+
 * 200g (6.8 oz) Cheddar
 * 200g (7 fl oz) 2% Milk
 * 30g (1 small) Roasted Jalapeno, Seeded & Chopped
