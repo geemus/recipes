@@ -3,13 +3,14 @@
 ? servings = 30 minutes / 1 hour
 
 * 1.5 lb 85 percent lean ground beef (?1)
+* 12 oz frozen mushrooms
 * 1.5 cups chicken stock (?2)
 * 1.5 cups whole milk
 * 12 oz cheese curds, divided
 * 2 packets unflavored gelatin (~5 tsp; 1/2 oz; 14g)
 * large yellow onion
-* 3 medium cloves garlic
-* 2 tbsp tomato paste
+* 3 medium cloves garlic (?2-4)
+* 2 tbsp tomato paste (?1)
 * 1 cup dry red wine
 * 1 tbsp worchestershire sauce
 * 1 tsp miso
