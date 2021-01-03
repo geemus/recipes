@@ -10,9 +10,10 @@
 * 2 packets unflavored gelatin (~5 tsp; 1/2 oz; 14g)
 * large yellow onion
 * 3 medium cloves garlic (?2-4)
-* 2 tbsp tomato paste (?1)
+* 1 tbsp (heaping) tomato paste
 * 1 cup dry red wine
 * 1 tbsp worchestershire sauce
+* 1.25 tbsp dried thyme
 * 1 tsp miso
 * 3 tbsp all-purpose flour
 * 12 oz frozen peas and carrots
