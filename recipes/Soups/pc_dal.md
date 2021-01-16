@@ -9,7 +9,7 @@
 * 2 tsp salt
 * 1 tsp msg
 * 3 cups water
-* 4 tbsp fresh lime juice (from about 1 lime)
+* 2 tbsp fresh lime juice (from about 1 lime)
 * 1 (28-oz) can diced tomato
 * 1/2 cup peanuts
 
