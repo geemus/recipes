@@ -1,4 +1,4 @@
-## Pasta con Ceci
+## Smash Burgers
 
 4 servings = ~60 minutes
 
