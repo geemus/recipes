@@ -6,7 +6,7 @@
 * 1/4 cup water
 * 1/2 cup low sodium chicken broth
 * 1/3 cup low sodium soy sauce
-* 1/4 cup brow sugar
+* 1/4 cup brown sugar
 * 2 tbsp Shaoxing cooking wine (or dry sherry)
 * 1 tbsp sesame oil
 * 1 tbsp minced fresh ginger
