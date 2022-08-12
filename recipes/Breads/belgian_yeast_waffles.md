@@ -1,6 +1,6 @@
 ## Belgian-Style Yeast Waffles
 
- ~4x 7" round waffles = 8 minutes active, 1 hour rest, 20-30 minutes baking
+~4x 7" round waffles = 8 minutes active, 1 hour rest, 20-30 minutes baking
 
 * 1-1/2 cups lukewarm milk (340g)
 * 6 tbsp butter, melted (85g)
