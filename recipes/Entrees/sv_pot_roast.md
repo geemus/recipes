@@ -1,4 +1,4 @@
-## Sous Vide Steel Cut Oats
+## Sous Vide Pot Roast
 
 x servings = 12 hours to 2 days
 
