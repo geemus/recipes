@@ -1,4 +1,4 @@
-## Greek Salad
+## Sous Vide Polenta
 
 Serves 4 = 5 minutes / 120 minutes
 
