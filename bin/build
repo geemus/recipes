@@ -1,5 +1,6 @@
 #!/usr/bin/env ruby
-# encoding: UTF-8
+
+# frozen_string_literal: true
 
 # built based on information from:
 # https://puppet.com/blog/how-we-automated-our-ebook-builds-pandoc-and-kindlegen
@@ -7,24 +8,25 @@
 require 'fileutils'
 
 # create build directories
-Dir.mkdir('pkg') unless Dir.exists?('pkg')
-Dir.mkdir('tmp') unless Dir.exists?('tmp')
+Dir.mkdir('pkg') unless Dir.exist?('pkg')
+Dir.mkdir('tmp') unless Dir.exist?('tmp')
 
 # create page_break file
-page_break_path = "/tmp/page_break.md"
+page_break_path = '/tmp/page_break.md'
 page_break_md = File.new(page_break_path, 'w+')
 page_break_md.write('<div style="page-break-after:always;"></div>')
 page_break_md.close
 
 # build a list of files and create section header files for directories
 puts
-puts "Collecting recipes"
+puts 'Collecting recipes'
 paths = []
-puts "  * title.md"
-paths << "title.md"
+puts '  * title.md'
+paths << 'title.md'
 paths << page_break_path
 Dir.foreach('recipes/') do |path|
   next if ['.', '..'].include?(path)
+
   section_path = "/tmp/#{path}.md"
   section_md = File.new(section_path, 'w+')
   section_md.write("# #{path}")
@@ -34,6 +36,7 @@ Dir.foreach('recipes/') do |path|
   puts "  * #{section_path}"
   Dir.entries("recipes/#{path}").sort.each do |subpath|
     next if ['.', '..'].include?(subpath)
+
     recipe_path = "recipes/#{path}/#{subpath}"
     paths << recipe_path
     paths << page_break_path
@@ -43,12 +46,12 @@ end
 puts
 
 # feed list of files and headers to pandoc to build epub
-puts "Building recipes epub"
+puts 'Building recipes epub'
 `pandoc -o pkg/recipes.epub --epub-metadata=metadata.xml #{paths.join(' ')} --toc`
 puts
 
 # feed epub to kindlegen to build mobi
-puts "Converting to mobi"
+puts 'Converting to mobi'
 `kindlegen pkg/recipes.epub`
 puts
 
