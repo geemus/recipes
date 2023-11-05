@@ -23,6 +23,7 @@
 ## Recipes of Test/Explore
 
 - [Make it Dairy Free](https://makeitdairyfree.com/category/dinner)
+  - [PC Tex-Mex Rice](https://makeitdairyfree.com/vegan-instant-pot-tex-mex-rice)
 - [Simply Recipes](https://www.simplyrecipes.com)
 - [Sous Vide Lentils](https://www.recipes.polyscienceculinary.com/recipe/master-technique-cooking-lentils-sous-vide-3/)
 - Sous Vide Legumes
