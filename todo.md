@@ -23,14 +23,22 @@
 ## Recipes of Test/Explore
 
 - [Make it Dairy Free](https://makeitdairyfree.com/category/dinner)
+  - [vegan lentil sloppy joes](https://makeitdairyfree.com/vegan-lentil-sloppy-joes)
   - [PC Tex-Mex Rice](https://makeitdairyfree.com/vegan-instant-pot-tex-mex-rice)
+  - [vegan japanese curry](https://makeitdairyfree.com/vegan-japanese-curry)
 - [Simply Recipes](https://www.simplyrecipes.com)
 - [Sous Vide Lentils](https://www.recipes.polyscienceculinary.com/recipe/master-technique-cooking-lentils-sous-vide-3/)
 - Sous Vide Legumes
     - [Sous Vide No-Soak Beans](https://recipes.anovaculinary.com/recipe/sous-vide-no-soak-beans)
     - [Cooking Legumes Sous Vide](https://www.recipes.polyscienceculinary.com/recipe/master-technique-cooking-legumes-sous-vide)
     - [Pinto Beans with Bacon Sous Vide](https://www.vacmasterfresh.com/pinto-beans-with-bacon-sous-vide-recipe)
-    - [Sous Vide Navy Beans](https://www.chefsteps.com/activities/sous-vide-navy-beans)o
+    - [Sous Vide Navy Beans](https://www.chefsteps.com/activities/sous-vide-navy-beans)
+- [modernist dairy-free potato puree](https://modernistcuisine.com/recipes/dairy-free-potato-puree/)
+- King Arthur
+    - [Cinnamon-Crisp Coffee Cake](https://www.kingarthurbaking.com/recipes/cinnamon-crisp-coffee-cake-recipe)
+    - [Small Batch Cheesy Focaccia](https://www.kingarthurbaking.com/recipes/small-batch-cheesy-focaccia-recipe)
+    - [Whole Grain Banana Bread](https://www.kingarthurbaking.com/recipes/whole-grain-banana-bread-recipe)
+- [amish oatmeal pie](https://www.tastesoflizzyt.com/amish-oatmeal-pie-recipe/)
 
 ---
 
