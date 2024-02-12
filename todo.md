@@ -6,6 +6,7 @@
 
 ## Recipes to Record
 
+- [vegan peanut noodles](https://makeitdairyfree.com/vegan-thai-peanut-noodles/)
 - [Crispy Yeasted Waffles](https://www.chefsteps.com/activities/crispy-yeasted-waffles)
 - [Instant Egg Drop Soup](https://www.chefsteps.com/activities/chicken-bouillon-egg-drop-soup)
 - [Sous Vide BBQ Pork Shoulder](https://www.seriouseats.com/sous-vide-barbecue-pulled-pork-shoulder-recipe)
