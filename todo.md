@@ -23,6 +23,7 @@
 
 ## Recipes of Test/Explore
 
+- [chili oil noodles](https://youtube.com/shorts/kmtVwIJCZZE?si=DAQX8ia7yGs2iF3j)
 - [Make it Dairy Free](https://makeitdairyfree.com/category/dinner)
   - [vegan lentil sloppy joes](https://makeitdairyfree.com/vegan-lentil-sloppy-joes)
   - [PC Tex-Mex Rice](https://makeitdairyfree.com/vegan-instant-pot-tex-mex-rice)
