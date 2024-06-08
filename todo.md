@@ -23,6 +23,9 @@
 
 ## Recipes of Test/Explore
 
+- [freeze/roast sweet potatoes](https://www.seriouseats.com/frozen-roasted-sweet-potato-5210149#toc-putting-things-on-ice-the-benefits-of-freezing-whole-sweet-potatoes)
+- [air fryer french fries](https://www.youtube.com/watch?v=yw--NLjZBNk&ab_channel=ChrisYoung)
+- [frozen tofu](https://www.seriouseats.com/simmered-tofu-soup-with-pork-and-cabbage-recipe-5212276)
 - [chili oil noodles](https://youtube.com/shorts/kmtVwIJCZZE?si=DAQX8ia7yGs2iF3j)
 - [Make it Dairy Free](https://makeitdairyfree.com/category/dinner)
   - [vegan lentil sloppy joes](https://makeitdairyfree.com/vegan-lentil-sloppy-joes)
