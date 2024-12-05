@@ -23,6 +23,8 @@
 
 ## Recipes of Test/Explore
 
+- [convert bread to tangzhong](https://www.kingarthurbaking.com/blog/2018/07/23/how-to-convert-a-bread-recipe-to-tangzhong)
+- [tangzhong cinnamon rolls](https://www.kingarthurbaking.com/recipes/soft-cinnamon-rolls-recipe)
 - [freeze/roast sweet potatoes](https://www.seriouseats.com/frozen-roasted-sweet-potato-5210149#toc-putting-things-on-ice-the-benefits-of-freezing-whole-sweet-potatoes)
 - [air fryer french fries](https://www.youtube.com/watch?v=yw--NLjZBNk&ab_channel=ChrisYoung)
 - [frozen tofu](https://www.seriouseats.com/simmered-tofu-soup-with-pork-and-cabbage-recipe-5212276)
