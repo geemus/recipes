@@ -13,6 +13,7 @@
 2. Put flour and potato flakes in a large bowl and mix.
 3. Make a well and pour in egg, water and add salt.
 4. Stir together to form a soft, smooth dough.
+4. Let rest for a few minutes, then fold/knead until structure begins to develop.
 5. Dust worktop lightly and roll the dough into long ~3/4 in [2cm] cylinder.
 6. Cut into ~ 3/4 in [2cm] lengths.
 7. Add dough pieces to boiling water for about 2 minutes, removing pieces as they begin to float.
