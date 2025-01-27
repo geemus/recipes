@@ -3,7 +3,7 @@
 4 servings = 30 minutes / 30 minutes
 
 * 1 cup plain (all-purpose) flour, plus extra for rolling out [125 g]
-* 2 cups instant potato flakes [200g]
+* 2 cups instant potato flakes [125g]
 * 1 egg, beaten
 * 1 cup water [225ml]
 * 1/2 tsp fine sea [kosher] salt
