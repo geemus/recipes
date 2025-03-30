@@ -11,6 +11,8 @@
 
 Adapted from [Eat Up! Kitchen](http://eatup.kitchen/mac-and-cheese/)
 
+---
+
 * 200g (6.8 oz) Cheddar
 * 200g (7 fl oz) 2% Milk
 * 30g (1 small) Roasted Jalapeno, Seeded & Chopped
@@ -24,6 +26,8 @@ Adapted from [Eat Up! Kitchen](http://eatup.kitchen/mac-and-cheese/)
 5. Can be cooled completely and reheated for future use.
 
 Adapted from [Modernist Pantry](https://blog.modernistpantry.com/recipes/foodie-favorite-nacho-cheese/)
+
+---
 
 * 265g cold wheat beer or water (93%)
 * 11g sodium citrate (4%)

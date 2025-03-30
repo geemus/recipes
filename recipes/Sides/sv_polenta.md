@@ -20,3 +20,26 @@ Serves 4 = 5 minutes / 120 minutes
 8. Taste for seasoning and serve warm.
 
 Adapted from [Salt Pepper Skillet](https://saltpepperskillet.com/recipes/sous-vide-polenta/)
+
+---
+
+Serves 3 = 20 minutes / 16 hours
+
+* 100 g course ground polenta (1/2 cup)
+* 300 g chicken stock (1-1/4 cup)
+* 100 g half and half (1/2 cup)
+* 50 g butter (1/4 cup)
+* 5 g salt (1 tsp)
+
+* 100 g half and half (1/2 cup)
+* 30 g Parmigiano Reggiano (1 cup)
+* 7 g minced chive (1/2 tbsp)
+
+1. Preheat bath to 181.4F / 83C.
+2. Combine polenta, liquids, butter, and salt and seal.
+3. Cook for 1 hour, then massage to redistribute.
+4. Cook for remaining 15 hours.
+5. Can serve immediately or chill.
+6. Before serving, whisk in remaining ingredients in pot on stove. Will need additional half and half if chilled.
+
+Adapted from [Kitchen Alchemy](https://blog.modernistpantry.com/recipes/meal-prep-polenta)
